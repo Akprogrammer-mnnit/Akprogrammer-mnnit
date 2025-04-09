@@ -1,9 +1,9 @@
 ## Hi there 👋 I am Ayan Khandelwal
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Akprogrammer-mnnit&theme=algolia)
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=algolia)
+![Stats](https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akprogrammer-mnnit&layout=compact&theme=algolia)
 ![Profile Views](https://komarev.com/ghpvc/?username=Akprogrammer-mnnit&color=blue)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkProgrammer-mnnit&theme=algolia)
 ## 🧠 LeetCode Stats
