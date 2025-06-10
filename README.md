@@ -3,11 +3,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 Currently building and maintaining **PrimeFinance** – a full-stack personal finance tracker
-- 🌱 Learning **Docker**, **PostgreSQL**, and advanced **backend architecture**
-- 💬 Ask me about **MERN stack**, **system design**, or **clean project structuring**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ayan-khandelwal-8b53892a1/) | [LeetCode](https://leetcode.com/AKProgrammer)
 
 ---
