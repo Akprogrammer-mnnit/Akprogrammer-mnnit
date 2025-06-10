@@ -1,37 +1,58 @@
-## Hi there 👋 I am Ayan Khandelwal
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Akprogrammer-mnnit&theme=algolia)
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akprogrammer-mnnit&layout=compact&theme=algolia)
-![Profile Views](https://komarev.com/ghpvc/?username=Akprogrammer-mnnit&color=blue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkProgrammer-mnnit&theme=algolia)
-## 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/AKProgrammer?theme=light&font=Source+Code+Pro)](https://leetcode.com/AKProgrammer)
-## 🚀 Featured Projects
+<h1 align="center">Hi there 👋, I'm Ayan Khandelwal</h1>
+<h3 align="center">🚀 CSE @ MNNIT | MERN Developer | Building Cloud IDEs & AI Projects</h3>
 
-- [🔗 PrimeFinance](https://github.com/Akprogrammer-mnnit/PrimeFinance) - A personal finance manager
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on a **Collaborative Cloud IDE** (like Replit)
+- 🧠 Exploring **Docker**, **PostgreSQL**, and **secure sandboxing**
+- 📘 I also built [**PrimeFinance**](https://github.com/Akprogrammer-mnnit/PrimeFinance), a full-stack personal finance tracker
+- 💡 Interested in **Cloud Systems**, **AI**, **Systems Programming**, and **DevOps**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayan-khandelwal/) | [LeetCode](https://leetcode.com/AKProgrammer)
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Akprogrammer-mnnit&theme=algolia&no-bg=true&no-frame=true)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=algolia)
+  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Akprogrammer-mnnit&theme=algolia)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akprogrammer-mnnit&layout=compact&langs_count=8&theme=algolia)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Akprogrammer-mnnit&color=blue)
+
+</div>
+
+---
+
+### 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AKProgrammer?theme=light&font=Source+Code+Pro)](https://leetcode.com/AKProgrammer)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|--------|
+| 🔗 [PrimeFinance](https://github.com/Akprogrammer-mnnit/PrimeFinance) | A modern personal finance manager with budget planning & analytics | MERN, Vite |
+| 🧠 Drowsiness Detection | Real-time driver drowsiness detection using OpenCV, Dlib, and CNN | Python, dlib, Streamlit |
+| 💻 Collaborative Cloud IDE *(WIP)* | Replit-style cloud IDE with CodeMirror + Docker sandboxed environments | MERN, Docker, Yjs, PostgreSQL |
+
+---
+
+### 📌 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
- 
 
-
-
-
-
-
-
-<!--
-**Akprogrammer-mnnit/Akprogrammer-mnnit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
