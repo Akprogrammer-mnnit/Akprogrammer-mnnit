@@ -1,12 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Ayan Khandelwal</h1>
+<h3 align="center">🚀 CSE @ MNNIT | Full-Stack Developer | Passionate about MERN & DevOps</h3>
+
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on a **Collaborative Cloud IDE**
-- 🧠 Exploring **Docker**, **secure sandboxing**
-- 📘 I also built [**PrimeFinance**](https://github.com/Akprogrammer-mnnit/PrimeFinance), a full-stack personal finance tracker
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayan-khandelwal-8b53892a1/) | [LeetCode](https://leetcode.com/AKProgrammer)
+- 🔭 Currently building and maintaining **PrimeFinance** – a full-stack personal finance tracker
+- 🌱 Learning **Docker**, **PostgreSQL**, and advanced **backend architecture**
+- 💬 Ask me about **MERN stack**, **system design**, or **clean project structuring**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ayan-khandelwal/) | [LeetCode](https://leetcode.com/AKProgrammer)
 
 ---
 
@@ -20,15 +22,24 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=algolia)
-  
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=Akprogrammer-mnnit&theme=algolia)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akprogrammer-mnnit&layout=compact&langs_count=8&theme=algolia)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Akprogrammer-mnnit&color=blue)
+<img src="https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=algolia" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akprogrammer-mnnit&theme=algolia" height="180"/>
 
 </div>
+
+---
+
+### 📌 Top Languages Used
+
+<!-- GitHub card often fails to detect languages properly. Here's a reliable badge set: -->
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
 ---
 
@@ -38,15 +49,17 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
-| Project | Description | Stack |
-|--------|-------------|--------|
-| 🔗 [PrimeFinance](https://github.com/Akprogrammer-mnnit/PrimeFinance) | A modern personal finance manager with budget planning & analytics | MERN, Vite |
-| 💻 Collaborative Cloud IDE *(WIP)* | Replit-style cloud IDE with CodeMirror + Docker sandboxed environments | MERN, Docker, Yjs, PostgreSQL |
+#### 🔗 [PrimeFinance](https://github.com/Akprogrammer-mnnit/PrimeFinance)
+A clean and modern personal finance manager where users can track expenses, manage budgets, and get insights.
+
+> 🔧 Stack: React, Node.js, Express, MongoDB, Vite  
+> 💡 Features: Expense tracking, budget overview, responsive UI
+
 ---
 
-### 📌 Quote of the Day
+### ✨ Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
