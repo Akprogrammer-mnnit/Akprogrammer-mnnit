@@ -3,11 +3,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on a **Collaborative Cloud IDE** (like Replit)
-- 🧠 Exploring **Docker**, **PostgreSQL**, and **secure sandboxing**
+- 🔭 I’m currently working on a **Collaborative Cloud IDE**
+- 🧠 Exploring **Docker**, **secure sandboxing**
 - 📘 I also built [**PrimeFinance**](https://github.com/Akprogrammer-mnnit/PrimeFinance), a full-stack personal finance tracker
-- 💡 Interested in **Cloud Systems**, **AI**, **Systems Programming**, and **DevOps**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayan-khandelwal/) | [LeetCode](https://leetcode.com/AKProgrammer)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayan-khandelwal-8b53892a1/) | [LeetCode](https://leetcode.com/AKProgrammer)
 
 ---
 
@@ -44,9 +43,7 @@
 | Project | Description | Stack |
 |--------|-------------|--------|
 | 🔗 [PrimeFinance](https://github.com/Akprogrammer-mnnit/PrimeFinance) | A modern personal finance manager with budget planning & analytics | MERN, Vite |
-| 🧠 Drowsiness Detection | Real-time driver drowsiness detection using OpenCV, Dlib, and CNN | Python, dlib, Streamlit |
 | 💻 Collaborative Cloud IDE *(WIP)* | Replit-style cloud IDE with CodeMirror + Docker sandboxed environments | MERN, Docker, Yjs, PostgreSQL |
-
 ---
 
 ### 📌 Quote of the Day
