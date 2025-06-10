@@ -44,7 +44,7 @@
 
 ### 🚀 Featured Project
 
-#### 🔗 [PrimeFinance](https://github.com/Akprogrammer-mnnit/PrimeFinance)
+#### 🔗 [PrimeFinance](https://prime-finance-livid.vercel.app/)
 A clean and modern personal finance manager where users can track expenses, manage budgets, and get insights.
 
 > 🔧 Stack: React, Node.js, Express, MongoDB, Vite  
