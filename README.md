@@ -1,6 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Ayan Khandelwal</h1>
-<h3 align="center">🚀 CSE @ MNNIT | MERN Developer | Building Cloud IDEs & AI Projects</h3>
-
 ---
 
 ### 🧑‍💻 About Me
