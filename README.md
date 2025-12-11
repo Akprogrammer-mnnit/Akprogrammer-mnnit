@@ -17,7 +17,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=algolia" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akprogrammer-mnnit&theme=algolia" height="180"/>
 
 </div>
