@@ -1,85 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Ayan%20Khandelwal%20👋&fontSize=40&animation=fadeIn&fontAlignY=38&desc=CSE%20@%20MNNIT%20|%20Full-Stack%20Developer%20|%20DevOps%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Ayan+Khandelwal;Full+Stack+Developer;CSE+Student+%40+MNNIT;Passionate+about+DevOps+%26+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayan-khandelwal-8b53892a1/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/AKProgrammer)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-<br />
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 I’m currently a **Computer Science** student at **MNNIT**.
-- 💻 Passionate about **MERN Stack Development**, **System Design**, and **DevOps**.
-- 🚀 I love building scalable applications and solving algorithmic problems.
-- 🔭 Currently working on improving accessibility tools and financial tech.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-| Frontend | Backend | Database | Tools & DevOps |
-| :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akprogrammer-mnnit&layout=compact&theme=algolia&hide_border=true&bg_color=00000000" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akprogrammer-mnnit&theme=algolia&hide_border=true&background=00000000" alt="GitHub Streak" />
-</div>
-
----
-
-### 🧩 LeetCode Progress
-
-<div align="center">
+  <a href="https://www.linkedin.com/in/ayan-khandelwal-8b53892a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://leetcode.com/AKProgrammer">
-    <img src="https://leetcard.jacoblin.cool/AKProgrammer?theme=dark&font=Source+Code+Pro&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="khandelwalayan11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  Hi! I'm a Computer Science student at <b>MNNIT Allahabad</b>. I build accessible, scalable web applications and love diving deep into system design.
+</div>
+
+<br />
+
+<h3 align="center">🛠️ Technical Arsenal</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,cpp,redux,html,css,tailwind,docker,linux,postman,vite&perline=14" />
   </a>
 </div>
 
----
+<br />
 
-### 🚀 Featured Projects
+<h3 align="center">📊 Coding Activity</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=transparent&hide_border=false&title_color=3F8CFF&text_color=999&icon_color=3F8CFF&hide=contribs" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akprogrammer-mnnit&layout=compact&theme=transparent&hide_border=false&title_color=3F8CFF&text_color=999&icon_color=3F8CFF" height="150" alt="languages graph" />
+</div>
 
-#### 💰 [PrimeFinance](https://prime-finance-livid.vercel.app/)
-> *A clean and modern personal finance manager for tracking expenses and budgets.*
+<br />
 
-| 🔧 Tech Stack | 💡 Key Features |
-| :--- | :--- |
-| `React` `Node.js` `Express` `MongoDB` `Vite` | • Real-time Expense Tracking <br> • Budget Visualization <br> • Responsive Dashboard |
+<h3 align="center">🧠 Problem Solving</h3>
+<div align="center">
+  <a href="https://leetcode.com/AKProgrammer">
+    <img src="https://leetcard.jacoblin.cool/AKProgrammer?theme=unicorn&font=Source+Code+Pro&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
 
----
+<br />
+
+<h3 align="center">🚀 Featured Project</h3>
+
+| **💰 PrimeFinance** |
+| :--- |
+| **A modern personal finance manager to track expenses and budget insights.** <br> • **Tech:** React, Node.js, Express, MongoDB, Vite <br> • **Features:** Real-time analytics, Budget overview, Responsive UI <br> <br> 🔗 [**Live Demo**](https://prime-finance-livid.vercel.app/) |
+
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akprogrammer-mnnit&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Akprogrammer-mnnit&label=Profile+Views&color=3F8CFF&style=flat-square" alt="Profile Views" />
 </div>
