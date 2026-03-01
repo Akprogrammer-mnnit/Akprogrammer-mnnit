@@ -33,12 +33,6 @@
 
 <br />
 
-<h3 align="center">📊 Coding Activity</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akprogrammer-mnnit&show_icons=true&theme=transparent&hide_border=false&title_color=3F8CFF&text_color=999&icon_color=3F8CFF&hide=contribs" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akprogrammer-mnnit&layout=compact&theme=transparent&hide_border=false&title_color=3F8CFF&text_color=999&icon_color=3F8CFF" height="150" alt="languages graph" />
-</div>
-
 <br />
 
 <h3 align="center">🧠 Problem Solving</h3>
