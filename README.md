@@ -22,7 +22,7 @@
 
 <br />
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
+<h3 align="center">Technical Arsenal</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,cpp,react,nodejs,express,mongodb,redis,tailwind,postman,vite&perline=14" alt="Tech Skills"/>
@@ -33,7 +33,7 @@
 
 <br />
 
-<h3 align="center">🧠 Problem Solving</h3>
+<h3 align="center">Problem Solving</h3>
 <div align="center">
   <a href="https://leetcode.com/AKProgrammer">
     <img src="https://leetcard.jacoblin.cool/AKProgrammer?theme=unicorn&font=Source+Code+Pro&ext=heatmap" alt="LeetCode Stats" />
@@ -42,17 +42,25 @@
 
 <br />
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">Featured Projects</h3>
 
-| 🦋 **ButterflyEffect** — *AI-Powered Code Dependency Analyzer* |
+| **ButterflyEffect** — *AI-Powered Code Dependency Analyzer* |
 | :--- |
 | Parses ASTs via Tree-sitter, builds Call Graphs in Neo4j, and uses LLMs to predict the blast radius of code changes directly inside VS Code.<br><br> 🛠️ **Tech:** TypeScript, Node.js, Neo4j, MongoDB, Tree-sitter, LLMs <br><br> 🔗 [**Live Dashboard**](https://butter-fly-effect.vercel.app/) &nbsp;\|&nbsp; 💻 [**GitHub**](https://github.com/Akprogrammer-mnnit/ButterFlyEffect) &nbsp;\|&nbsp; 🧩 [**VS Code Extension**](https://marketplace.visualstudio.com/items?itemName=ak-mnnit.butterfly-effect) |
 
 <br>
 
-| 🚀 **LocalLoop** — *Distributed Reverse Proxy & Traffic Tunnel* |
+| **LocalLoop** — *Distributed Reverse Proxy & Traffic Tunnel* |
 | :--- |
 | A high-performance tunneling tool exposing localhost to the internet. Handles 300+ concurrent tunnels and features real-time MITM traffic inspection via a React dashboard.<br><br> 🛠️ **Tech:** TypeScript, Socket.IO, Redis, Node.js, React <br><br> 🔗 [**Live Site**](https://local-loop-gamma.vercel.app/) &nbsp;\|&nbsp; 💻 [**GitHub**](https://github.com/Akprogrammer-mnnit/localloop) &nbsp;\|&nbsp; 📦 [**npm Package**](https://www.npmjs.com/package/@ayankhandelwal07/local-loop) |
+
+<br />
+
+<h3 align="center">Contribution Graph</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akprogrammer-mnnit&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</div>
 
 <br />
 
